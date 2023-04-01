@@ -1,0 +1,6 @@
+body {
+    background-color: var(--cor-background);
+    color: var(--cor-titulo);
+    font-family: var(--fonte-principal);
+    font-weight: var(--peso-paragrafo);
+}

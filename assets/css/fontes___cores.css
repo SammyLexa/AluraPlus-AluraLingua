@@ -1,0 +1,15 @@
+:root {
+    --cor-titulo: #FFFFFF;
+    --cor-paragrafo: #C0C0C0;
+    --cor-botao: #167BF7;
+    --cor-background: #00030C;
+
+    --cor-botao-efeito: #4d97f1;
+
+    --fonte-principal: 'Inter', sans-serif;
+
+    --peso-titulo: 700;
+    --peso-paragrafo: 400;
+
+    --tamanho-paragrafo: 16px;
+}
