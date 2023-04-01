@@ -15,7 +15,7 @@ Desenvolver um site do Combo Promocional da Alura+ com o Alura Língua para trei
 - ![icons8-link-26](https://user-images.githubusercontent.com/123910027/228752013-a96329b2-08be-4b86-ab21-9506e43c6bf7.png) Redirecionar para o site da Alura com os planos promocionais 
 
 <h2>Linguagens, Ferramentas e Metodologias utilizadas: 
-HTML, CSS, CSS Flexbox, CSS Grid, Atomic Design, BEM (Block, Element, Modifier), Responsividade</h2>
+HTML, CSS, CSS Flexbox, CSS Grid, Atomic Design, BEM (Block, Element, Modifier)</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML"  width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
