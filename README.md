@@ -1,5 +1,4 @@
 # AluraPlus-AluraLingua
-## ![Telas](https://user-images.githubusercontent.com/123910027/229312840-86a5d5e0-56f5-48ad-946d-b2948d3360fb.png)
 
 ## Para ver outros Projetos como esse visite meu Portfolio [Link](https://github.com/SammyLexa/Portfolio)
 
