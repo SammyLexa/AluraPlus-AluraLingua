@@ -10,12 +10,11 @@
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
-    
+    text-align: center;
 }
 
 .container__caixa{
     margin: 0em 6em;
-    
 }
 
 .container__titulo{
@@ -57,14 +56,16 @@
         grid-template-columns: 100%;
         display: flex;
         flex-direction: column-reverse;
+
     }
     .principal{
         background-size: 0%;
         display: flex;
         align-items: flex-start;
         text-align: flex-start;
+        height: 70vh;
+        margin-bottom: 2rem;
     }
-    
     .container__imagem{
         width: 100%;
     }
@@ -74,7 +75,7 @@
    }
 
    .container__caixa{
-    margin: 0em 0.1em;
+    margin: 0em 0.2em;
    }
     
 }
