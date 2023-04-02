@@ -29,4 +29,4 @@ HTML, CSS, CSS Flexbox, CSS Grid, Atomic Design, BEM (Block, Element, Modifier),
 ## Mobile: 
 </br>
 
-![127 0 0 1_5500_index html(iPhone SE)](https://user-images.githubusercontent.com/123910027/229326863-a06ca685-bc3b-484b-a3b5-bdb2825a730d.png)
+<img width="400px" src="https://user-images.githubusercontent.com/123910027/229326863-a06ca685-bc3b-484b-a3b5-bdb2825a730d.png">
