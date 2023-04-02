@@ -7,7 +7,7 @@
 
 Desenvolver um site do Combo Promocional da Alura+ com o Alura Língua para treinar HTML e CSS.
 
-[Link do Site](https://alura-plus-alura-lingua-4wd0u4b3c-sammylexa.vercel.app/#) 
+[Link do Site](https://alura-plus-alura-lingua-git-main-sammylexa.vercel.app/) 
 </br>
 [Figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1-77&t=jjovjAP6qjU0Zbzj-0)
 
