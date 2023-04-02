@@ -11,5 +11,6 @@
     --peso-titulo: 700;
     --peso-paragrafo: 400;
 
-    --tamanho-paragrafo: 16px;
+    
+    --tamanho-paragrafo: 1rem;
 }

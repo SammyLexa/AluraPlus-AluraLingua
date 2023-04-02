@@ -3,7 +3,7 @@
 }
 
 .dispositivos__titulo{
-    font-size: 48px;
+    font-size: 3rem;
     color: var(--cor-titulo);
 }
 
@@ -15,6 +15,17 @@
 }
 
 .lista__item{
-    font-size: 32px;
+    font-size: 2rem;
     color: var(--cor-titulo);
 }
+
+@media (max-width: 700px){
+    .dispositivos{
+        margin-top: 5em;
+    }
+    
+    .dispositivos__listas{
+        flex-direction: column;
+    }
+     
+ }
