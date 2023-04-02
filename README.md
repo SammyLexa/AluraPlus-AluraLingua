@@ -22,7 +22,12 @@ HTML, CSS, CSS Flexbox, CSS Grid, Atomic Design, BEM (Block, Element, Modifier)<
   <img align="center" alt="CSS" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Resultado Obtido:
+## Resultado Obtido ao acessar pelo Computador:
 </br>
 
 ![image](https://user-images.githubusercontent.com/123910027/229312883-512cda55-fedd-4e1d-8e93-cbbe01449153.png)
+
+## Mobile: 
+</br>
+
+![127 0 0 1_5500_index html(iPhone SE)](https://user-images.githubusercontent.com/123910027/229326863-a06ca685-bc3b-484b-a3b5-bdb2825a730d.png)
